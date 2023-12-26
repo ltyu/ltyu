@@ -61,3 +61,5 @@
 - Modular account abstraction with [rhinestone](https://rhinestone.wtf)
 - Cross-chain general messaging layers with [hyperlane](https://hyperlane.xyz/)
 
+## Stack
+[![My Skills](https://skillicons.dev/icons?i=solidity,typescript,js,html,react,aws,nextjs)](https://skillicons.dev)
