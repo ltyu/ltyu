@@ -45,11 +45,12 @@
 	- Defi protocol for stablecoin depeg insurance
 	- Findings: [1](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/118), [2](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/117), [3](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/116), [4](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/49), [5](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/11), [6](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/10)
 ### Hackathons
-- [0xy](https://devpost.com/software/vestwise)
-	- Eth NYC 2023
-	- Insurance with put options and UniswapV4 hooks
+- [0xy](https://ethglobal.com/showcase/0xy-bjtsk)
+	- Eth NYC 2023 (🏆 Uniswap Foundation — Best use of Hooks)
+        - Derivative protected loans using UniswapV4 hooks
+		
 - [gastly](https://ethglobal.com/showcase/gastly-ybz7j)
-	- EthOnline 2023
+	- EthOnline 2023 (🏆 Connext — Best Use, Scroll — Pool Prize, Scroll — Best Use)
 	- Cross-chain gas tank
 - [vestwise](https://devpost.com/software/vestwise)
 	- Chainlink Constellation 2023
