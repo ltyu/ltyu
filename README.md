@@ -7,6 +7,7 @@
 - [Hyperlane](https://hyperlane.xyz/)
 	- Modular general messaging layer that enables cross-chain messaging
 	- Contributions:
+ 		- [Succinct ISM that uses ZK proofs to verify message delivery](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/3149)
 		- [Yield-earning Warp Routes with ERC4626](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/3076)
 		- [LayerZero Hook and ISM](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/3102)
 
